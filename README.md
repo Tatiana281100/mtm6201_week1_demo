@@ -1,2 +1,6 @@
 # mtm6201_week1_demo
-This is a description.
+## week 1
+We are learning about following topics:
+- Course Overview
+- Creating Git Repository
+- Setting Up GitHub Pages
